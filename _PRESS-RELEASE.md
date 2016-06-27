@@ -18,27 +18,43 @@ Once the project moves into development, the press release can be used as a touc
 
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  ===> name= Prayer Basics 
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
 
+  ===> the targets are all muslims and non muslims to show them how to make prayer in a very easy simple way :)
+
+  For those who wants to learn how islam prayer works or anyone curious about the proccess.
+
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 
+benfits: for non muslims it will satisfie their curiosity about how muslims pray and it will introduce them some benifits of this prayer.
+in general, i tried not to make lots of text since most of the people enjoy watching rather than reading
+
 ## Problem ##
   > Describe the problem your product solves.
+  The problem is there is no enough resources about muslims prayers and how its done
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
 
+    This website is the perfect place for those who want to learn about prayer in Islam with all the steps explained in an effective way.
+
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  
+  	"Come and Know Us"
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  well, i started by trying to draw prayer moves and if its possible i will start drawing all the moves and make the transactions.
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+
+  "love the way you described you prayer and how consistent the product is :}"
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
