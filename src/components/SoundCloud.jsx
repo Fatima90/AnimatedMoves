@@ -7,6 +7,7 @@ var SoundCloud = React.createClass({
 		 <button id="stream" className="buttons" >Play</button>
 		</div>
 		)}
+		
 });
 //https://w.soundcloud.com/player/?url=http://api.soundcloud.com/users/1539950/favorites
 

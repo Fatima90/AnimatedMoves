@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MVP (Solo) Project
 
 ## Overview:
@@ -116,3 +117,6 @@ Here are three things we want to see from you:
 * Understanding
   * How well do you understand what we have learned?
   * Do you make the effort to improve?
+=======
+# AnimatedMoves
+>>>>>>> 0a4d4cf212ffa6836da16b780704a9eba6c1cb0c
